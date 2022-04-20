@@ -1,0 +1,16 @@
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula60Exe100\bin\Debug\net5.0\Aula60Exe100.exe
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula60Exe100\bin\Debug\net5.0\Aula60Exe100.deps.json
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula60Exe100\bin\Debug\net5.0\Aula60Exe100.runtimeconfig.json
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula60Exe100\bin\Debug\net5.0\Aula60Exe100.runtimeconfig.dev.json
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula60Exe100\bin\Debug\net5.0\Aula60Exe100.dll
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula60Exe100\bin\Debug\net5.0\Aula60Exe100.pdb
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula60Exe100\obj\Debug\net5.0\Aula60Exe100.csproj.AssemblyReference.cache
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula60Exe100\obj\Debug\net5.0\Aula60Exe100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula60Exe100\obj\Debug\net5.0\Aula60Exe100.AssemblyInfoInputs.cache
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula60Exe100\obj\Debug\net5.0\Aula60Exe100.AssemblyInfo.cs
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula60Exe100\obj\Debug\net5.0\Aula60Exe100.csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula60Exe100\obj\Debug\net5.0\Aula60Exe100.dll
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula60Exe100\obj\Debug\net5.0\refint\Aula60Exe100.dll
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula60Exe100\obj\Debug\net5.0\Aula60Exe100.pdb
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula60Exe100\obj\Debug\net5.0\Aula60Exe100.genruntimeconfig.cache
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula60Exe100\obj\Debug\net5.0\ref\Aula60Exe100.dll
